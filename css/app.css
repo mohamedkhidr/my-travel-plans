@@ -8,6 +8,9 @@ html {
 *::after {
     box-sizing: inherit;
 }
+.manist{
+    margin :0 ;
+}
 
 body {
     display: flex;
